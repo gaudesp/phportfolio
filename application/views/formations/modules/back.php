@@ -1,0 +1,1 @@
+<a class="btn btn-secondary btn-block" href="<?php echo URL.'formations'; ?>">Toutes les formations</a>

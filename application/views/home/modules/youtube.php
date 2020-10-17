@@ -1,0 +1,1 @@
+<a href="<?php echo $config->getConfig('youtube'); ?>" class="btn btn-default btn-lg btn-block" target="_blank" title="Accéder à ma chaîne YouTube Nox Studio"><img src="<?php echo URL.'public/img/home/youtube.png'; ?>" /></a>

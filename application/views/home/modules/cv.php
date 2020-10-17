@@ -1,0 +1,1 @@
+<a href="<?php echo $config->getConfig('cv'); ?>" class="btn btn-primary btn-lg btn-block" target="_blank" title="Accéder à mon CV">Curriculum Vitae</a><br />

@@ -1,0 +1,1 @@
+<?php if ($this->isAdmin() == true) echo'<a href="'.URL.'admins/logout" class="btn btn-primary btn-lg btn-block" title="Se déconnecter">Déconnexion</a><br />'; ?>

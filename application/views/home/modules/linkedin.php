@@ -1,0 +1,1 @@
+<a href="<?php echo $config->getConfig('linkedin'); ?>" class="btn btn-default btn-lg btn-block" target="_blank" title="Accéder à mon profil Linkedin"><img src="<?php echo URL.'public/img/home/linkedin.png'; ?>" /></a><br />
