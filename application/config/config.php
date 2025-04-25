@@ -7,7 +7,7 @@ ini_set("display_errors", 1);
 
 /* INFORMATION */
 
-define('URL', 'http://40.74.60.100/gaudesp/');
+define('URL', 'http://127.0.0.1/');
 define('CONTACT_EMAIL', 'gaudespro@gmail.com');
 define('SITE_NAME', 'Gaudesp');
 
@@ -21,17 +21,17 @@ define('PROJECTS_PER_PAGE', 3);
 /* BDD */
 
 define('DB_TYPE', 'mysql');
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'gaudesp_bdd');
-define('DB_USER', 'root');
-define('DB_PASS', 'Maxou%*1');
+define('DB_HOST', 'db');
+define('DB_NAME', 'phportfolio');
+define('DB_USER', 'user');
+define('DB_PASS', 'password');
 
 /* MAIL */
 
 define('MAIL_HOST', 'smtp.gmail.com');
 define('MAIL_PORT', 587);
 define('MAIL_USER', 'mail.ubuntu.server@gmail.com');
-define('MAIL_PASS', 'Sr84Ty12%*45');
+define('MAIL_PASS', 'password');
 
 /* CONFIG */
 
